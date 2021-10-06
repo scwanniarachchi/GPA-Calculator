@@ -1,0 +1,62 @@
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\NSBM Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\NSBM Year 1 Semester 2\C#\8\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\Nonim Udara\Desktop\New folder\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
+D:\New folder (8)\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+D:\New folder (8)\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+D:\New folder (8)\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+D:\New folder (8)\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+D:\New folder (8)\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\New folder (8)\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\New folder (8)\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+D:\New folder (8)\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+D:\New folder (8)\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+D:\New folder (8)\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+D:\New folder (8)\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+D:\New folder (8)\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\New folder (8)\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\New folder (8)\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\New folder (8)\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
